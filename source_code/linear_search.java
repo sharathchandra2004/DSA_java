@@ -1,6 +1,6 @@
 public class linear_search {
     
-    public static  int LS(int arr[],int key){
+    public static int LS(int arr[],int key){
         
         // loop to traverse the array and search the element in linear direction
         for(int i = 0;i < arr.length;i++){
