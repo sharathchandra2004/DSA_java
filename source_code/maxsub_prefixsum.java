@@ -18,7 +18,7 @@ public class maxsub_prefixsum{
                 }
             }
         }
-        System.out.println("Maximum subarray is" + maxSum);
+        System.out.println("Maximum subarray is: " + maxSum);
     }
     public static void main(String[] args) {
         int arr[] = {2,4,6,8,10};
